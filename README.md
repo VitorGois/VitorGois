@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A beginner explorer in the world of programming from Pilar do Sul, Brazil
+  A backend engineer from Pilar do Sul, Brazil
 </p>
 
 <p align='center'>
